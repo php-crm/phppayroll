@@ -61,6 +61,14 @@
   PHPPayroll reduces manual work, minimizes payroll errors,
   and improves overall HR efficiency.
 </p>
+<p align="center">
+  <a href="https://www.phppayroll.com/" target="_blank"><strong>Home</strong></a> •
+  <a href="https://www.phppayroll.com/features/" target="_blank"><strong>Features</strong></a> •
+  <a href="https://www.phppayroll.com/download/" target="_blank"><strong>Download</strong></a> •
+  <a href="https://www.phppayroll.com/demo/" target="_blank"><strong>Live Demo</strong></a> •
+  <a href="https://www.phppayroll.com/documentation/" target="_blank"><strong>Documentation</strong></a> •
+  <a href="https://www.phppayroll.com/contact/" target="_blank"><strong>Contact</strong></a>
+</p>
 
 <hr>
 
