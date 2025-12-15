@@ -7,15 +7,34 @@ organizations.
 
 ---
 
-## 🚀 Features
-- Employee Payroll Management
-- Salary Structure & Components
-- Monthly Payroll Processing
-- Payslip Generation (PDF)
-- Deductions & Allowances
-- Attendance-Based Salary Calculation
-- Payroll Reports
-- Secure Login & Role-Based Access
+## 🚀 Features (v3.0.0)
+
+- Dashboard with key statistics  
+  - Total Employees  
+  - Active Employees  
+  - Today’s Attendance  
+  - Pending Leave Requests  
+
+- Employee Management  
+  - Add employees  
+  - View employee list  
+
+- Attendance Management  
+  - Mark daily attendance  
+  - View attendance records  
+
+- Leave Management  
+  - Add leave requests  
+  - View pending leaves  
+
+- Payroll  
+  - Generate payroll  
+
+- User Account & Security  
+  - Secure login  
+  - Change password  
+  - Logout system  
+
 
 ---
 
