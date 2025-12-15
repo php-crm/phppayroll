@@ -114,7 +114,9 @@ based on attendance data.
   <li>Real-time attendance reports for HR & managers</li>
 </ul>
 
-<p><strong>Read More</strong></p>
+<p><a href="https://www.phppayroll.com/attendance-management-system/" target="_blank">
+    <strong>Read More →</strong>
+  </a></p>
 
 <hr>
 
@@ -130,7 +132,9 @@ job roles, salary structure, and performance records.
   <li>Real-time HR analytics</li>
 </ul>
 
-<p><strong>Read More</strong></p>
+<p><a href="https://www.phppayroll.com/employee-management-system/" target="_blank">
+    <strong>Read More →</strong>
+  </a></p>
 
 <hr>
 
@@ -146,7 +150,9 @@ for accurate salary calculations.
   <li>Compliance with labor laws</li>
 </ul>
 
-<p><strong>Read More</strong></p>
+<p><a href="https://www.phppayroll.com/leave-management-system/" target="_blank">
+    <strong>Read More →</strong>
+  </a></p>
 
 <hr>
 
@@ -162,7 +168,9 @@ deductions.
   <li>Supports multiple salary structures</li>
 </ul>
 
-<p><strong>Read More</strong></p>
+<p><a href="https://www.phppayroll.com/payslip-management-system/" target="_blank">
+    <strong>Read More →</strong>
+  </a></p>
 
 <hr>
 
@@ -177,7 +185,9 @@ Provides role-based access control to protect sensitive employee and payroll dat
   <li>Prevents unauthorized data access</li>
 </ul>
 
-<p><strong>Read More</strong></p>
+<p><a href="https://www.phppayroll.com/user-management-in-hrm/" target="_blank">
+    <strong>Read More →</strong>
+  </a></p>
 
 <hr>
 
@@ -193,7 +203,9 @@ attendance tracking.
   <li>Payroll integration</li>
 </ul>
 
-<p><strong>Read More</strong></p>
+<p><a href="https://www.phppayroll.com/biometric-attendance-software/" target="_blank">
+    <strong>Read More →</strong>
+  </a></p>
 
 <hr>
 
@@ -209,7 +221,9 @@ and continuous feedback.
   <li>Supports employee growth</li>
 </ul>
 
-<p><strong>Read More</strong></p>
+<p><a href="https://www.phppayroll.com/employee-management-system/" target="_blank">
+    <strong>Read More →</strong>
+  </a></p>
 
 <hr>
 
@@ -225,7 +239,9 @@ to employees.
   <li>Prevents loss and misuse</li>
 </ul>
 
-<p><strong>Read More</strong></p>
+<p><a href="https://www.phppayroll.com/assets-management-system/" target="_blank">
+    <strong>Read More →</strong>
+  </a></p>
 
 <hr>
 
@@ -241,7 +257,9 @@ and version tracking.
   <li>Easy document retrieval</li>
 </ul>
 
-
+<p><a href="https://www.phppayroll.com/document-management-system/" target="_blank">
+    <strong>Read More →</strong>
+  </a></p>
 
 <hr>
 
@@ -256,7 +274,9 @@ Automates expense submission, approval, and reimbursement processes.
   <li>Expense analytics & reporting</li>
 </ul>
 
-
+<p><a href="https://www.phppayroll.com/employee-expense-management-system/" target="_blank">
+    <strong>Read More →</strong>
+  </a></p>
 
 <hr>
 
@@ -271,7 +291,9 @@ Tracks tasks, work progress, and completion status to improve productivity.
   <li>Workload optimization</li>
 </ul>
 
-
+<p><a href="https://www.phppayroll.com/work-management-system/" target="_blank">
+    <strong>Read More →</strong>
+  </a></p>
 
 <hr>
 
@@ -286,7 +308,9 @@ issues and complaints.
   <li>Improves workplace culture</li>
   <li>Ensures fair resolution</li>
 </ul>
-
+<p><a href="https://www.phppayroll.com/employee-grievance-system/" target="_blank">
+    <strong>Read More →</strong>
+  </a></p>
 
 
 <hr>
@@ -302,7 +326,9 @@ Empowers employees to manage their own HR tasks independently.
   <li>Reduces HR workload</li>
 </ul>
 
-
+<p><a href="https://www.phppayroll.com/ess/" target="_blank">
+    <strong>Read More →</strong>
+  </a></p>
 
 <hr>
 
@@ -317,7 +343,9 @@ Automates hiring from job posting to onboarding.
   <li>Recruitment analytics</li>
 </ul>
 
-
+<p><a href="https://www.phppayroll.com/recruitment-management-system/" target="_blank">
+    <strong>Read More →</strong>
+  </a></p>
 
 <hr>
 
@@ -332,7 +360,9 @@ Manages employee loan applications, approvals, and payroll deductions.
   <li>Transparent loan history</li>
 </ul>
 
-
+<p><a href="https://www.phppayroll.com/loan-management-system/" target="_blank">
+    <strong>Read More →</strong>
+  </a></p>
 
 <hr>
 
@@ -349,7 +379,9 @@ Helps organizations create, assign, and manage employee shifts efficiently.
 
 
 
-
+<p><a href="https://www.phppayroll.com/employee-shift-management-system/" target="_blank">
+    <strong>Read More →</strong>
+  </a></p>
 
 
 
