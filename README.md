@@ -1,40 +1,43 @@
 # PHPPayroll – Open Source Payroll Management Software
 
-PHPPayroll is a modern and flexible **Payroll Management System** built using
-PHP and MySQL. It is designed to simplify employee salary processing, payroll
-calculations, payslip generation, and payroll reporting for small to mid-sized
-organizations.
+![PHP](https://img.shields.io/badge/PHP-7.4%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Release](https://img.shields.io/github/v/release/your-github-username/phppayroll)
+
+PHPPayroll is a modern, lightweight, and flexible **Payroll Management System** built using **PHP** and **MySQL**.
+It helps organizations manage **employees, attendance, leave, and payroll processing** efficiently.
+
+Designed for **small to mid-sized organizations**, PHPPayroll is easy to deploy, customize, and extend.
 
 ---
 
 ## 🚀 Features (v3.0.0)
 
-- Dashboard with key statistics  
-  - Total Employees  
-  - Active Employees  
-  - Today’s Attendance  
-  - Pending Leave Requests  
+### 📊 Dashboard
+- Total Employees
+- Active Employees
+- Today’s Attendance
+- Pending Leave Requests
 
-- Employee Management  
-  - Add employees  
-  - View employee list  
+### 👥 Employee Management
+- Add employees
+- View employee list
 
-- Attendance Management  
-  - Mark daily attendance  
-  - View attendance records  
+### 🕒 Attendance Management
+- Mark daily attendance
+- View attendance records
 
-- Leave Management  
-  - Add leave requests  
-  - View pending leaves  
+### 📝 Leave Management
+- Submit leave requests
+- Track pending leaves
 
-- Payroll  
-  - Generate payroll  
+### 💰 Payroll
+- Generate payroll
 
-- User Account & Security  
-  - Secure login  
-  - Change password  
-  - Logout system  
-
+### 🔐 User Account & Security
+- Secure login system
+- Change password
+- Logout functionality
 
 ---
 
@@ -46,15 +49,73 @@ organizations.
 
 ---
 
-## 📦 Installation
-1. Download the PHPPayroll package and extract it into your web server root directory.
+## 📦 Installation (Quick Start)
+
+1. Download or clone the repository.
 2. Create a MySQL / MariaDB database (UTF8MB4 recommended).
-3. Import database schema from `/database/phppayroll_install.sql`
-4. Configure database in `/app/config/database.php`
-5. Open browser: `http://localhost/phppayroll/public/`
-6. Login and change default password.
+3. Import:
+   ```
+   /database/phppayroll_install.sql
+   ```
+4. Configure:
+   ```
+   /app/config/database.php
+   ```
+5. Open:
+   ```
+   http://localhost/phppayroll/public/
+   ```
+6. Change the default admin password immediately.
+
+📘 Full Guide: **INSTALLATION.md**
 
 ---
 
-## 📄 License
-MIT License
+## 🌐 Deployment
+
+Production deployment instructions:
+👉 **DEPLOYMENT.md**
+
+---
+
+## 🔐 Security
+Security best practices and vulnerability reporting:
+👉 **SECURITY.md**
+
+---
+
+## 🧾 Changelog
+All version updates:
+👉 **CHANGELOG.md**
+
+---
+
+## 🤝 Contributing
+We welcome contributions:
+👉 **CONTRIBUTING.md**
+
+---
+
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+
+---
+
+## 🌍 Open Source & License
+
+PHPPayroll is released under the **MIT License**.
+You are free to use, modify, rebrand, and deploy it commercially.
+
+---
+
+### ⭐ Project Status
+- Stable Release: **v3.0.0**
+- Actively maintained
+- Production-ready
+
+---
+
+**Thank you for choosing PHPPayroll Open Source!**
