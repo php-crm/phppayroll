@@ -570,5 +570,8 @@ You are free to use, modify, rebrand, and deploy it commercially.
 - Production-ready
 
 ---
+<p align="center">
+  ⭐ <strong>Thank you for choosing PHPPayroll Open Source!</strong><br>
+  If you find this project useful, please consider giving it a ⭐ on GitHub to support development.
+</p>
 
-**Thank you for choosing PHPPayroll Open Source!**
