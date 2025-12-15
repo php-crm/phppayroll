@@ -92,6 +92,268 @@
   <li>Scales easily as your business grows</li>
 </ul>
 
+<h2 align="center">🌟 Core Modules in PHPPayroll (Cloud & HR Suite)</h2>
+
+<p align="center">
+PHPPayroll includes a complete set of HR, attendance, and payroll modules designed
+to automate workforce management and improve organizational efficiency.
+</p>
+
+<hr>
+
+<h3>🕒 Attendance Management System</h3>
+<p>
+The Attendance Management System tracks employee attendance, working hours,
+and overtime accurately. It integrates directly with payroll to calculate salaries
+based on attendance data.
+</p>
+<ul>
+  <li>Automated timekeeping</li>
+  <li>Supports biometric, RFID & mobile attendance</li>
+  <li>Reduces time theft and manual errors</li>
+  <li>Real-time attendance reports for HR & managers</li>
+</ul>
+
+<p><strong>Read More</strong></p>
+
+<hr>
+
+<h3>👥 Employee Management System</h3>
+<p>
+A centralized system to manage employee details such as personal information,
+job roles, salary structure, and performance records.
+</p>
+<ul>
+  <li>Centralized employee database</li>
+  <li>Self-service for employees</li>
+  <li>Improved workforce planning</li>
+  <li>Real-time HR analytics</li>
+</ul>
+
+<p><strong>Read More</strong></p>
+
+<hr>
+
+<h3>📝 Leave Management System</h3>
+<p>
+Automates leave requests, approvals, and tracking while integrating with payroll
+for accurate salary calculations.
+</p>
+<ul>
+  <li>Supports paid, sick, casual & custom leave types</li>
+  <li>Automated approval workflows</li>
+  <li>Leave balance & accrual tracking</li>
+  <li>Compliance with labor laws</li>
+</ul>
+
+<p><strong>Read More</strong></p>
+
+<hr>
+
+<h3>💰 Payslip Management System</h3>
+<p>
+Generates secure, automated payslips with a clear breakdown of earnings and
+deductions.
+</p>
+<ul>
+  <li>Digital payslip generation</li>
+  <li>Employee self-service access</li>
+  <li>Tax & deduction compliance</li>
+  <li>Supports multiple salary structures</li>
+</ul>
+
+<p><strong>Read More</strong></p>
+
+<hr>
+
+<h3>🔐 User Management in HRM</h3>
+<p>
+Provides role-based access control to protect sensitive employee and payroll data.
+</p>
+<ul>
+  <li>Role & permission management</li>
+  <li>Secure access control</li>
+  <li>User activity logs</li>
+  <li>Prevents unauthorized data access</li>
+</ul>
+
+<p><strong>Read More</strong></p>
+
+<hr>
+
+<h3>🧬 Biometric Attendance Software</h3>
+<p>
+Uses fingerprint, facial recognition, or iris scanning to ensure accurate
+attendance tracking.
+</p>
+<ul>
+  <li>Eliminates buddy punching</li>
+  <li>Highly accurate attendance data</li>
+  <li>Real-time monitoring</li>
+  <li>Payroll integration</li>
+</ul>
+
+<p><strong>Read More</strong></p>
+
+<hr>
+
+<h3>📊 Employee Performance Software</h3>
+<p>
+Helps organizations evaluate employee performance through goals, KPIs,
+and continuous feedback.
+</p>
+<ul>
+  <li>Performance reviews & appraisals</li>
+  <li>KPI tracking</li>
+  <li>Skill gap identification</li>
+  <li>Supports employee growth</li>
+</ul>
+
+<p><strong>Read More</strong></p>
+
+<hr>
+
+<h3>📦 Asset Management System</h3>
+<p>
+Tracks company assets such as laptops, mobile phones, and equipment assigned
+to employees.
+</p>
+<ul>
+  <li>Asset lifecycle tracking</li>
+  <li>Barcode / RFID support</li>
+  <li>Audit & compliance reporting</li>
+  <li>Prevents loss and misuse</li>
+</ul>
+
+<p><strong>Read More</strong></p>
+
+<hr>
+
+<h3>📁 Document Management System</h3>
+<p>
+Securely stores and manages employee-related documents with access control
+and version tracking.
+</p>
+<ul>
+  <li>Digital document storage</li>
+  <li>Version control</li>
+  <li>Secure access permissions</li>
+  <li>Easy document retrieval</li>
+</ul>
+
+
+
+<hr>
+
+<h3>💳 Employee Expense Management System</h3>
+<p>
+Automates expense submission, approval, and reimbursement processes.
+</p>
+<ul>
+  <li>Receipt upload & categorization</li>
+  <li>Policy-based approvals</li>
+  <li>Payroll integration</li>
+  <li>Expense analytics & reporting</li>
+</ul>
+
+
+
+<hr>
+
+<h3>📋 Employee Work Management System</h3>
+<p>
+Tracks tasks, work progress, and completion status to improve productivity.
+</p>
+<ul>
+  <li>Task assignment & tracking</li>
+  <li>Deadline monitoring</li>
+  <li>Team collaboration</li>
+  <li>Workload optimization</li>
+</ul>
+
+
+
+<hr>
+
+<h3>⚠️ Employee Grievance System</h3>
+<p>
+Provides a structured and confidential way for employees to raise workplace
+issues and complaints.
+</p>
+<ul>
+  <li>Confidential grievance submission</li>
+  <li>Status tracking</li>
+  <li>Improves workplace culture</li>
+  <li>Ensures fair resolution</li>
+</ul>
+
+
+
+<hr>
+
+<h3>🧑‍💼 Employee Self-Service (ESS)</h3>
+<p>
+Empowers employees to manage their own HR tasks independently.
+</p>
+<ul>
+  <li>Update personal details</li>
+  <li>Apply for leave</li>
+  <li>Access payslips & documents</li>
+  <li>Reduces HR workload</li>
+</ul>
+
+
+
+<hr>
+
+<h3>🎯 Recruitment Management System</h3>
+<p>
+Automates hiring from job posting to onboarding.
+</p>
+<ul>
+  <li>Applicant tracking</li>
+  <li>Interview scheduling</li>
+  <li>Job board integration</li>
+  <li>Recruitment analytics</li>
+</ul>
+
+
+
+<hr>
+
+<h3>🏦 Loan Management System</h3>
+<p>
+Manages employee loan applications, approvals, and payroll deductions.
+</p>
+<ul>
+  <li>Loan tracking & repayment schedules</li>
+  <li>Interest calculation</li>
+  <li>Payroll integration</li>
+  <li>Transparent loan history</li>
+</ul>
+
+
+
+<hr>
+
+<h3>🕑 Employee Shift Management System</h3>
+<p>
+Helps organizations create, assign, and manage employee shifts efficiently.
+</p>
+<ul>
+  <li>Shift scheduling & rotation</li>
+  <li>Overtime management</li>
+  <li>Employee shift requests</li>
+  <li>Payroll-ready shift data</li>
+</ul>
+
+
+
+
+
+
+
+
 <p>
   <strong>Best for:</strong> Businesses that want a reliable payroll system
   without managing servers or infrastructure.
