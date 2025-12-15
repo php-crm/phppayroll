@@ -1,0 +1,145 @@
+# PHPPayroll — Open Source HR & Payroll Software
+## INSTALLATION & SETUP GUIDE
+
+---
+
+## System Requirements
+
+- PHP 7.4 or higher (PHP 8+ recommended)
+- MySQL / MariaDB database
+- Apache or Nginx Web Server
+- Enabled PHP Extensions:
+  - mysqli
+  - pdo_mysql (optional for future updates)
+  - openssl
+  - mbstring
+  - json
+  - curl
+- mod_rewrite enabled (optional for clean URLs)
+
+---
+
+## Folder Structure (Important Paths)
+
+```
+/public               → Public root where index and modules are accessed
+/app                  → MVC application files
+/app/controllers      → Controller files
+/app/models           → Data models
+/app/views            → Views/templates
+/app/config           → Application configuration + database connection
+/database             → Contains installation SQL file
+```
+
+---
+
+## Installation File Location
+
+The SQL file required for database setup is located at:
+
+```
+/database/phppayroll_install.sql
+```
+
+---
+
+## Installation Steps
+
+1. Download the PHPPayroll source code and extract it to your web directory.
+2. Create a new MySQL database (UTF8MB4 recommended).
+3. Import the SQL file:
+   ```
+   /database/phppayroll_install.sql
+   ```
+4. Open:
+   ```
+   /app/config/database.php
+   ```
+   Update database credentials:
+   ```
+   DB_HOST, DB_NAME, DB_USER, DB_PASS
+   ```
+5. Open:
+   ```
+   /app/config/config.php
+   ```
+   Update company and payroll system settings if required.
+
+---
+
+## Accessing PHPPayroll (URL)
+
+After successful installation, open your browser:
+
+```
+http://localhost/your-payroll-folder/public/
+```
+
+Example:
+```
+http://localhost/phppayroll/public/
+```
+
+Online server:
+```
+https://yourdomain.com/public/
+```
+
+---
+
+## Admin Login Credentials
+
+Default credentials after installation:
+
+- **Email:** admin@phppayroll.com  
+- **Password:** 123456
+
+> If login fails, verify the `password_hash` field in the  
+> `phppayroll_users` table is `VARCHAR(255)` and not truncated.
+
+---
+
+## File & Folder Permissions
+
+- `/public/uploads` → Writable for uploads (if enabled)
+- `/app/logs` → Writable for system logs (if enabled)
+
+---
+
+## Security Notes
+
+- Delete `/database/phppayroll_install.sql` after installation.
+- Change admin password immediately after first login.
+- Keep database configuration private and secure.
+- Do not expose `/app/config` folder via the web.
+
+---
+
+## Recommended PHP Settings
+
+- `max_execution_time = 300`
+- `memory_limit = 512M`
+- `upload_max_filesize = 32M`
+- `post_max_size = 32M`
+
+---
+
+## Support & Community
+
+- Website: https://www.phppayroll.com
+- Live Demo: https://www.phppayroll.com/demo/
+- Download: https://www.phppayroll.com/download/
+- Documentation: https://www.phppayroll.com/documentation/
+- Features: https://www.phppayroll.com/features/
+- Contact: https://www.phppayroll.com/contact/
+
+---
+
+## License
+
+PHPPayroll is licensed under the **MIT Open Source License**.  
+You may use, modify, rebrand, and deploy commercially while preserving this notice.
+
+---
+
+**Thank you for choosing PHPPayroll Open Source!**
