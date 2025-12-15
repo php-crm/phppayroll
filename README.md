@@ -1,8 +1,37 @@
-# PHPPayroll – Open Source Payroll Management Software
+<p align="center">
+  <a href="https://www.phppayroll.com" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/php-crm/phppayroll/main/public/media/logo.png"
+      alt="PHPPayroll Logo"
+      width="160"
+    >
+  </a>
+</p>
 
-![PHP](https://img.shields.io/badge/PHP-7.4%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Release](https://img.shields.io/github/v/release/your-github-username/phppayroll)
+<h1 align="center">PHPPayroll – Open Source Payroll Management Software</h1>
+
+<p align="center">
+  <strong>
+    Modern, secure, and flexible payroll & HR management system built with PHP & MySQL
+  </strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/version-3.0.0-blue" />
+  <img src="https://img.shields.io/badge/license-MIT-green" />
+  <img src="https://img.shields.io/badge/PHP-7.4%2B-purple" />
+  <img src="https://img.shields.io/badge/status-stable-success" />
+  <a href="SECURITY.md">
+    <img src="https://img.shields.io/badge/security-policy-blue" />
+  </a>
+  <img src="https://img.shields.io/github/v/release/php-crm/phppayroll" />
+  <a href="https://www.phppayroll.com">
+    <img src="https://img.shields.io/badge/website-phppayroll.com-blue" />
+  </a>
+</p>
+
+
+# PHPPayroll – Open Source Payroll Management Software
 
 PHPPayroll is a modern, lightweight, and flexible **Payroll Management System** built using **PHP** and **MySQL**.
 It helps organizations manage **employees, attendance, leave, and payroll processing** efficiently.
